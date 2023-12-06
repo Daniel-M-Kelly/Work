@@ -1,0 +1,35 @@
+{
+    "allowSyncToOdriveFolderNameMismatch": false, 
+    "autoEmptyTrashIntervalMins": -1, 
+    "autoUnsyncThresholdHours": -1, 
+    "autoUnsyncUseAccess": false, 
+    "backupDisableMerge": false, 
+    "backupIntervalMinutes": 1440, 
+    "blackListContains": [], 
+    "blackListExtensions": [
+        ".tmp", 
+        ".download"
+    ], 
+    "blackListExtensionsRemove": [], 
+    "blackListNames": [
+        "thumbs.db", 
+        "desktop.ini"
+    ], 
+    "blackListNamesRemove": [], 
+    "blackListPrefixes": [
+        ".~", 
+        "._"
+    ], 
+    "blackListPrefixesRemove": [], 
+    "disableEncryptedNames": false, 
+    "disableLocalItemDeletes": false, 
+    "disableRemoteItemDeletes": false, 
+    "forgetEncPassphrase": false, 
+    "ignoreEncryptionHashCheck": false, 
+    "initialUploadBatchSize": 1, 
+    "maxConcurrentDownloads": 4, 
+    "maxConcurrentJobs": 4, 
+    "maxConcurrentUploads": 4, 
+    "maxTransferMBytes": 256, 
+    "remoteScanIntervalMins": 840
+}
