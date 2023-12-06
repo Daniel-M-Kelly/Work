@@ -1,6 +1,6 @@
 {
     "allowSyncToOdriveFolderNameMismatch": false, 
-    "autoEmptyTrashIntervalMins": -1, 
+    "autoEmptyTrashIntervalMins": 0, 
     "autoUnsyncThresholdHours": -1, 
     "autoUnsyncUseAccess": false, 
     "backupDisableMerge": false, 
